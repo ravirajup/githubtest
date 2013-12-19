@@ -4,13 +4,13 @@
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
-        <p class="lead">RAVIIII.</p>
+        <p class="lead">pottttttttt</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>potttttttttt</h2>
             <p>
               CIE
             </p>
@@ -19,9 +19,9 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>potttttttttttttt</h2>
             <p>
-                Bestintheparty
+               potttttttttttt
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
@@ -30,7 +30,7 @@
         <div class="col-md-4">
             <h2>Web Hosting</h2>
             <p>
-               RAVIIIIIIIIIIIIIIIIII
+               pottttttttttttt
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
